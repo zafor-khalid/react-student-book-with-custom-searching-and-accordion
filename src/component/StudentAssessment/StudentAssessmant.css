@@ -1,0 +1,29 @@
+@keyframes example {
+  25% {
+    transform: rotate(-25deg);
+  }
+  50% {
+    transform: rotate(-50deg);
+  }
+  75% {
+    transform: rotate(-75deg);
+  }
+  100% {
+    transform: rotate(-90deg);
+  }
+}
+
+@keyframes example1 {
+  25% {
+    transform: rotate(45deg);
+  }
+  50% {
+    transform: rotate(90deg);
+  }
+  75% {
+    transform: rotate(135deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}

@@ -1,0 +1,1 @@
+export { default as AllMarks } from './AllMarks.jsx'
